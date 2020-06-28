@@ -5,5 +5,9 @@ files:
   text: '# start a RockBand here'
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/6667
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/6667">JetBrains
+    Academy</a></html>
+  time: Sun, 28 Jun 2020 22:43:37 UTC
 record: -1
