@@ -5,5 +5,4 @@ class Point:
         self.y = y
 
     def dist(self, point1):
-        d = math.sqrt(((self.x - point1.x) ** 2) + ((self.y - point1.y) ** 2))
-        return d
+        return math.sqrt(((self.x - point1.x) ** 2) + ((self.y - point1.y) ** 2))
