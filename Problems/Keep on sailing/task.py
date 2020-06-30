@@ -7,8 +7,7 @@ class Ship:
 
     # the old sail method that you need to rewrite
     def sail(self, destination):
-        print("The {name_of_the_ship} has sailed for {city}!".format(name_of_the_ship=self.name,
-                                                                        city=destination))
+        print("The {name_of_the_ship} has sailed for {city}!".format(name_of_the_ship=self.name, city=destination))
 
 
 black_pearl = Ship("Black Pearl", 800)
